@@ -1,0 +1,76 @@
+
+BigWin.png
+size: 2482,2433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+500000
+  rotate: true
+  xy: 2350, 620
+  size: 409, 109
+  orig: 417, 115
+  offset: 4, 4
+  index: -1
+BET X 111
+  rotate: false
+  xy: 2, 26
+  size: 268, 57
+  orig: 275, 61
+  offset: 3, 3
+  index: -1
+BIGWIN
+  rotate: true
+  xy: 2205, 499
+  size: 530, 143
+  orig: 537, 147
+  offset: 3, 3
+  index: -1
+Ellipse 4
+  rotate: false
+  xy: 950, 2
+  size: 672, 672
+  orig: 692, 692
+  offset: 10, 10
+  index: -1
+Layer 43
+  rotate: false
+  xy: 2, 85
+  size: 946, 944
+  orig: 946, 944
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: false
+  xy: 1624, 335
+  size: 484, 339
+  orig: 486, 341
+  offset: 1, 1
+  index: -1
+Layer 471 copy 4
+  rotate: false
+  xy: 950, 676
+  size: 1253, 353
+  orig: 1253, 353
+  offset: 0, 0
+  index: -1
+Rectangle 8
+  rotate: false
+  xy: 2, 1031
+  size: 2400, 1400
+  orig: 2400, 1400
+  offset: 0, 0
+  index: -1
+Rectangle 9
+  rotate: false
+  xy: 1624, 166
+  size: 856, 167
+  orig: 866, 171
+  offset: 5, 3
+  index: -1
+Rounded Rectangle 3
+  rotate: false
+  xy: 1624, 16
+  size: 848, 148
+  orig: 878, 150
+  offset: 6, 1
+  index: -1

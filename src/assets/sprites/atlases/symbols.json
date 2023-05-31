@@ -1,0 +1,101 @@
+{
+	"frames": [
+		{
+			"filename": "ASymbol",
+			"frame": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "banknotesSymbol",
+			"frame": {"x": 250, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "dynamiteSymbol",
+			"frame": {"x": 500, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "JSymbol",
+			"frame": {"x": 750, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "KSymbol",
+			"frame": {"x": 1000, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "policeSymbol",
+			"frame": {"x": 1250, "y": 0, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "QSymbol",
+			"frame": {"x": 0, "y": 250, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "robberSymbol",
+			"frame": {"x": 250, "y": 250, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "scatterSymbol",
+			"frame": {"x": 500, "y": 250, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "TenSymbol",
+			"frame": {"x": 750, "y": 250, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		},
+		{
+			"filename": "wildSymbol",
+			"frame": {"x": 1000, "y": 250, "w": 250, "h": 250},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 250, "h": 250},
+			"sourceSize": {"w": 250, "h": 250}
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "symbols",
+		"format": "RGBA8888",
+		"size": {"w": 1500, "h": 500},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:0ea426577ebfa8006660539e883d0155:3a3dcd2136afc6d75a8e09c952b4edf8:d295ed7153fe372207e34d26d380974a$"
+	}
+}

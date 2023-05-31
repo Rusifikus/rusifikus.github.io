@@ -1,0 +1,48 @@
+
+FreeSpins.png
+size: 2404,1759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1806, 36
+  size: 160, 121
+  orig: 162, 123
+  offset: 1, 1
+  index: -1
+Ellipse 8
+  rotate: false
+  xy: 2, 2
+  size: 1253, 353
+  orig: 1253, 353
+  offset: 0, 0
+  index: -1
+FREE SPINS
+  rotate: false
+  xy: 1806, 159
+  size: 364, 80
+  orig: 372, 85
+  offset: 4, 4
+  index: -1
+Layer 48
+  rotate: false
+  xy: 1257, 32
+  size: 547, 323
+  orig: 551, 327
+  offset: 2, 2
+  index: -1
+Rectangle 8
+  rotate: false
+  xy: 2, 357
+  size: 2400, 1400
+  orig: 2400, 1400
+  offset: 0, 0
+  index: -1
+YOU WON
+  rotate: false
+  xy: 1806, 241
+  size: 494, 114
+  orig: 502, 119
+  offset: 4, 4
+  index: -1

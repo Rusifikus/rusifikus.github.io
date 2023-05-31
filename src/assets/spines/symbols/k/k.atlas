@@ -1,0 +1,48 @@
+
+k.png
+size: 372, 180
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shine
+  rotate: true
+  xy: 299, 86
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 329, 86
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+symbol_k
+  rotate: false
+  xy: 0, 24
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 204, 0
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+wheel_add
+  rotate: true
+  xy: 290, 18
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: false
+  xy: 204, 86
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

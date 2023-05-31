@@ -1,0 +1,27 @@
+
+banknotes.png
+size: 301, 188
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 215, 64
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 143, 138
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+symbol_banknotes
+  rotate: false
+  xy: 0, 0
+  size: 220, 188
+  orig: 220, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,68 @@
+
+MegaWin.png
+size: 2459,2037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000000
+  rotate: false
+  xy: 272, 1905
+  size: 636, 130
+  orig: 643, 134
+  offset: 4, 3
+  index: -1
+BET X 111
+  rotate: false
+  xy: 2, 1978
+  size: 268, 57
+  orig: 275, 61
+  offset: 3, 3
+  index: -1
+Ellipse 4
+  rotate: false
+  xy: 749, 1004
+  size: 1005, 826
+  orig: 1005, 826
+  offset: 0, 0
+  index: -1
+MEGA WIN
+  rotate: false
+  xy: 910, 1901
+  size: 743, 134
+  orig: 751, 142
+  offset: 4, 4
+  index: -1
+megawin_frame
+  rotate: false
+  xy: 2, 2
+  size: 1335, 1000
+  orig: 1355, 1021
+  offset: 18, 1
+  index: -1
+number_frame
+  rotate: false
+  xy: 1655, 1832
+  size: 802, 203
+  orig: 808, 218
+  offset: 3, 10
+  index: -1
+sparkles
+  rotate: false
+  xy: 2, 1159
+  size: 745, 744
+  orig: 800, 802
+  offset: 29, 27
+  index: -1
+
+MegaWin2.png
+size: 2404,1404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rectangle 8
+  rotate: false
+  xy: 2, 2
+  size: 2400, 1400
+  orig: 2400, 1400
+  offset: 0, 0
+  index: -1

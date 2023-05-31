@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "tools.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 459,
+				"h": 419
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arrowTools",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 15
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 15
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 28,
+						"h": 15
+					}
+				},
+				{
+					"filename": "rectangleTools",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 63
+					},
+					"frame": {
+						"x": 31,
+						"y": 1,
+						"w": 78,
+						"h": 63
+					}
+				},
+				{
+					"filename": "buttonActive",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 221,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 221,
+						"h": 49
+					},
+					"frame": {
+						"x": 111,
+						"y": 1,
+						"w": 221,
+						"h": 49
+					}
+				},
+				{
+					"filename": "buttonDisabled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 221,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 221,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 66,
+						"w": 221,
+						"h": 49
+					}
+				},
+				{
+					"filename": "backgroundTools",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 457,
+						"h": 301
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 457,
+						"h": 301
+					},
+					"frame": {
+						"x": 1,
+						"y": 117,
+						"w": 457,
+						"h": 301
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:de85eff843f4124ba8acc902397b6c4f:676634ea0288a37a748f9983baa23d0a:0cb600fbc12f59c6520bb85277bd2d8d$"
+	}
+}

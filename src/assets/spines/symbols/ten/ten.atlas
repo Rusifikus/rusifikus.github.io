@@ -1,0 +1,48 @@
+
+ten.png
+size: 455, 152
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shine
+  rotate: false
+  xy: 249, 28
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 412, 18
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+symbol_ten
+  rotate: false
+  xy: 0, 9
+  size: 248, 143
+  orig: 248, 143
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 344, 67
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+wheel_add
+  rotate: false
+  xy: 344, 0
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: false
+  xy: 249, 58
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

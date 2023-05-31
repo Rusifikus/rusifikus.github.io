@@ -1,0 +1,69 @@
+
+TotalWin.png
+size: 2404,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000000
+  rotate: false
+  xy: 1260, 100
+  size: 472, 114
+  orig: 478, 121
+  offset: 3, 4
+  index: -1
+BET X 111
+  rotate: true
+  xy: 2251, 301
+  size: 268, 57
+  orig: 275, 61
+  offset: 3, 3
+  index: -1
+Ellipse 4
+  rotate: true
+  xy: 2, 2
+  size: 567, 565
+  orig: 583, 583
+  offset: 8, 9
+  index: -1
+Layer 42
+  rotate: false
+  xy: 1824, 144
+  size: 425, 425
+  orig: 427, 427
+  offset: 1, 1
+  index: -1
+Layer 471 copy 3
+  rotate: false
+  xy: 569, 216
+  size: 1253, 353
+  orig: 1253, 353
+  offset: 0, 0
+  index: -1
+Rectangle 8
+  rotate: false
+  xy: 2, 571
+  size: 2400, 1400
+  orig: 2400, 1400
+  offset: 0, 0
+  index: -1
+Rectangle 9
+  rotate: false
+  xy: 569, 28
+  size: 689, 186
+  orig: 699, 191
+  offset: 6, 4
+  index: -1
+Rounded Rectangle 3 copy
+  rotate: false
+  xy: 1734, 37
+  size: 600, 105
+  orig: 622, 107
+  offset: 4, 1
+  index: -1
+TOTAL WIN
+  rotate: false
+  xy: 1260, 11
+  size: 458, 87
+  orig: 464, 91
+  offset: 3, 3
+  index: -1

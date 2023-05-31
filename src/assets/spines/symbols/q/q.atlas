@@ -1,0 +1,48 @@
+
+q.png
+size: 347, 180
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shine
+  rotate: true
+  xy: 274, 86
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 304, 86
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+symbol_q
+  rotate: false
+  xy: 0, 19
+  size: 178, 161
+  orig: 178, 161
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 179, 0
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+wheel_add
+  rotate: true
+  xy: 265, 18
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: false
+  xy: 179, 86
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

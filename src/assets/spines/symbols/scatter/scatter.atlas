@@ -1,0 +1,104 @@
+
+scatter.png
+size: 617, 195
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ingot_l
+  rotate: true
+  xy: 340, 59
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+ingot_r
+  rotate: true
+  xy: 242, 62
+  size: 133, 97
+  orig: 133, 97
+  offset: 0, 0
+  index: -1
+ingot_up
+  rotate: true
+  xy: 520, 91
+  size: 104, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+lightning_part_1
+  rotate: false
+  xy: 587, 91
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+lightning_part_2
+  rotate: true
+  xy: 572, 27
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+liquid
+  rotate: false
+  xy: 0, 72
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 0, 10
+  size: 178, 60
+  orig: 178, 60
+  offset: 0, 0
+  index: -1
+scatter2
+  rotate: false
+  xy: 179, 0
+  size: 176, 58
+  orig: 176, 58
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 136, 71
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+spark_01
+  rotate: false
+  xy: 517, 52
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+spark_02
+  rotate: false
+  xy: 422, 13
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+spark_03
+  rotate: true
+  xy: 422, 92
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 517, 6
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+star_shine
+  rotate: false
+  xy: 356, 9
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

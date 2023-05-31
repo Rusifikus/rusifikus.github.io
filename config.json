@@ -1,0 +1,22 @@
+{
+	"defaultStrips": [
+		["Robber", "K", "J"],
+		["Banknotes", "Q", "Police"],
+		["K", "Dynamite", "A"],
+		["Dynamite", "Robber", "Q"],
+		["Wild", "Ten", "Police"]
+	],
+	"symbolsPositions": {
+		"y": [0, 250, 500, -250],
+		"x": [0, 250, 500, 750, 1000],
+		"container": [460, 300]
+	},
+	"spin": {
+		"duration": 2000
+	},
+	"currency": "USD",
+	"balance": 3750,
+	"collums": 5,
+	"rows": 3,
+	"gameName": "The Bank Heist"
+}

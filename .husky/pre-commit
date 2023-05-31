@@ -1,0 +1,44 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+origin=$PWD
+
+
+echo '🏗️💻 Running Prettier, ESLing and TSConfig checks and building your project before committing'
+
+for dir in $(ls -d */ | grep -v 'node_modules'); do
+
+    if [ -d "node_modules" ] 
+    then
+        # Fixing auto-fixable prettier problems
+        echo '🚧 Fixing auto-fixable prettier problems';
+        npm run format
+
+
+        echo '📃 Running prettier check';
+        # Running Prettier Check    
+        npm run check-format ||
+        (
+            echo '❌ Prettier Check Failed. Run npm run format, add changes and try commit again.';
+            false;
+        )   
+
+        echo '✅ Prettier Check Passed.';
+
+
+        echo '📃 Running eslint check';
+        # Running ESLint Check
+        npm run check-lint ||
+        (
+            echo '❌ ESLint Check Failed. Make the required changes listed above, add changes and try to commit again.'
+            false; 
+        )
+
+        echo '✅ ESLint Check Passed.';
+            
+
+    fi
+done
+
+# Everything is successful
+echo '✅✅✅✅ Every Check Passed ✅✅✅✅'

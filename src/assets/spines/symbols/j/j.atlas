@@ -1,0 +1,48 @@
+
+j.png
+size: 367, 180
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shine
+  rotate: true
+  xy: 294, 86
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 324, 86
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+symbol_j
+  rotate: false
+  xy: 0, 24
+  size: 198, 156
+  orig: 198, 156
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 199, 0
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+wheel_add
+  rotate: true
+  xy: 285, 18
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+wheel_shadow
+  rotate: false
+  xy: 199, 86
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

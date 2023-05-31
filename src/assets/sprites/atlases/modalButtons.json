@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "modalButtons.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 836,
+				"h": 194
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "continueDefault",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 341,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 341,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 341,
+						"h": 79
+					}
+				},
+				{
+					"filename": "okDefault",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 79
+					},
+					"frame": {
+						"x": 344,
+						"y": 1,
+						"w": 126,
+						"h": 79
+					}
+				},
+				{
+					"filename": "reloadDefault",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 267,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 267,
+						"h": 79
+					},
+					"frame": {
+						"x": 472,
+						"y": 1,
+						"w": 267,
+						"h": 79
+					}
+				},
+				{
+					"filename": "continueOver",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 111
+					},
+					"frame": {
+						"x": 1,
+						"y": 82,
+						"w": 373,
+						"h": 111
+					}
+				},
+				{
+					"filename": "okOver",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 111
+					},
+					"frame": {
+						"x": 376,
+						"y": 82,
+						"w": 158,
+						"h": 111
+					}
+				},
+				{
+					"filename": "reloadOver",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 111
+					},
+					"frame": {
+						"x": 536,
+						"y": 82,
+						"w": 299,
+						"h": 111
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a7c7960019abfd30229953a14cf8e9bc:c26185a414ea6615c3350e5bd2e1a408:41a9ed720ac8debe02fa357a94ef39ce$"
+	}
+}

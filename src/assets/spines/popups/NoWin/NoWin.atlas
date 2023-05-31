@@ -1,0 +1,27 @@
+
+NoWin.png
+size: 602, 1078
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+effect
+  rotate: false
+  xy: 0, 0
+  size: 497, 476
+  orig: 497, 476
+  offset: 0, 0
+  index: -1
+ellipse
+  rotate: false
+  xy: 0, 477
+  size: 593, 601
+  orig: 593, 601
+  offset: 0, 0
+  index: -1
+no_win
+  rotate: true
+  xy: 498, 0
+  size: 430, 104
+  orig: 430, 104
+  offset: 0, 0
+  index: -1
